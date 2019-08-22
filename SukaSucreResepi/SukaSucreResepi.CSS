@@ -1,0 +1,16 @@
+body{
+
+	background-image: url("Dato.jpg");
+
+	font-family: cooper black;
+	color:white;
+	text-align: center;
+	text-decoration: overline;
+}
+
+h1{
+
+	background-color: black;
+	text-decoration: underline;
+
+}
